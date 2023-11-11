@@ -1,0 +1,1 @@
+Um projeto para testar a verificação de luminosidade do aparelho
